@@ -7,11 +7,14 @@ Welcome to the Frontend Web Dashboard for the Admin Account project! This dashbo
 This frontend dashboard is part of a project that includes a backend, which has been developed separately. You can find the backend code in the [graduation-project](https://github.com/khaledJeetan/graduation-project) repository. The goal of this dashboard is to seamlessly interact with the backend services and facilitate efficient management of your application.
 
 ## Screen Shots
-![DashBoard](image.png)
-![Add User](image-1.png)
-![View User List](image-2.png)
-![User Details](image-3.png)
-![Messages](image-4.png)
+![LogIn](https://github.com/khaledJeetan/admin-dashboard/assets/98354275/b0eef870-ea9a-4497-9267-718e83f2006c)
+![DashBoard](https://github.com/khaledJeetan/admin-dashboard/assets/98354275/86dfbef6-dca9-46ae-82d8-64bc2de274dc)
+![AddUser](https://github.com/khaledJeetan/admin-dashboard/assets/98354275/7c772933-29c7-4a6f-be0b-983644c417a4)
+![UserList](https://github.com/khaledJeetan/admin-dashboard/assets/98354275/014b2e4f-b1bf-4065-abee-d66ff25cd505)
+![UserDetails](https://github.com/khaledJeetan/admin-dashboard/assets/98354275/a1e3ee5a-a76f-4b15-a944-115af08f02bc)
+![Messages](https://github.com/khaledJeetan/admin-dashboard/assets/98354275/dc2472f4-cd4a-43e5-b043-47c402b3bc04)
+![WrongURL](https://github.com/khaledJeetan/admin-dashboard/assets/98354275/4186b3c7-a220-44dc-bf28-b74a3fc3b480)
+
 ## Getting Started
 
 To set up and run the project locally, follow these steps:
