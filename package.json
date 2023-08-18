@@ -1,0 +1,25 @@
+{
+  "name": "next-step",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "bootstrap": "^5.3.0",
+    "chart.js": "^4.3.3",
+    "pinia": "^2.1.4",
+    "vue": "^3.3.4",
+    "vue-chartjs": "^5.2.0",
+    "vue-router": "^4.2.2",
+    "vuetify": "^3.3.7"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.2.96",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.9"
+  }
+}
